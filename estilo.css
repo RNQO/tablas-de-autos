@@ -1,0 +1,32 @@
+h1{
+    font-family: cursive;
+    text-align: center;
+    color: black;
+}
+html, body {
+    height: 100%;
+    margin: 0;
+}
+
+table {
+    width: 100%;
+    height: 100%;
+    border-collapse: collapse;
+    text-align: center;
+}
+
+td {
+    padding: 10px;
+    border: 1px solid black;
+}
+.ferrari {
+    background-color: #d9ff00; /* Rojo Ferrari */
+}
+
+.ford {
+    background-color: #0044cc; /* Azul Ford */
+}
+
+.toyota {
+    background-color: #e60012; /* Rojo Toyota */
+}
